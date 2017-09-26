@@ -28,7 +28,7 @@ allprojects {
 }
 dependencies {
 	compile 'com.github.FJ917:FJEditTextCount:版本号'
-	//compile 'com.github.FJ917:FJEditTextCount:v1.0.1'
+	//  compile 'com.github.meihuali:FJEditTextCount-master:v1.08'
 }
 ```
 
